@@ -17,11 +17,14 @@ Equipment used in the listed projects
 
 ## Projects include
 
-* DnD Minis most designs are from [The DM Workshop](https://www.shapeways.com/shops/dmworkshop)
+* DnD minis most designs are from [The DM Workshop](https://www.shapeways.com/shops/dmworkshop)
 * DnD character Tokins and area effects
+* [DnD dice tower](https://www.thingiverse.com/thing:3603947)
 * Vladimir Glutin
-* Pi-heart String art
+* Pi-heart string art
 * 3D ship
+
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190528_174053.jpg)
 
 ## Projects on their way!
 
