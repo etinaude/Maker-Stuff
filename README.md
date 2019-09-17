@@ -2,6 +2,8 @@
 
 ## This is not code
 
+#### If you'd like a how to guide for any of these projects I'll upload them soon, please feel free to contact me for any more infomation
+
 This is a series of none-code maker projects mainly made at the [University of Aucklands MakerSpace](https://www.unleashspace.ac.nz/)
 
 Equipment used in the listed projects
