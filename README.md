@@ -24,20 +24,27 @@ Equipment used in the listed projects
 * [DnD dice tower](https://www.thingiverse.com/thing:3603947)
 * Vladimir Glutin
 * Pi-heart string art
+* Unleash T-shirt
 
 ## Current projects
 
 * 3D ship
 * [Decimal time clock](https://github.com/etinaude/Decimal-Clock)
-* Unleash T-shirt
+* flowing glowing water
 * Remote controlled ship equiped with a functioning coil gun.
-* Pirate gear
 
-## Projects on their way!
+## Projects (potentially) on their way!
 
 * [the ULTIMATE battery bank](https://www.youtube.com/watch?v=0jRsltIW8qM)
 * Micro SD (mini TF) card holder for a walet
+* induction heater
+* projector
+* mini trebushe
+* theremin
+* reddit sub counter
+* [ultimate monopoly](https://www.deviantart.com/jonizaak/art/Ultimate-Monopoly-356859388)
 * Battle robot
+* halloween heart
 
 ![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/Valdimar%20Gluten.jpg)
 ![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190315_105450.jpg)
