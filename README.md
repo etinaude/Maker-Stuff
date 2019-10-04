@@ -25,6 +25,7 @@ Equipment used in the listed projects
 * Vladimir Glutin
 * Pi-heart string art
 * Unleash T-shirt
+* Micro SD (mini TF) card holder for a walet
 
 ## Current projects
 
@@ -36,7 +37,6 @@ Equipment used in the listed projects
 ## Projects (potentially) on their way!
 
 * [the ULTIMATE battery bank](https://www.youtube.com/watch?v=0jRsltIW8qM)
-* Micro SD (mini TF) card holder for a walet
 * induction heater
 * projector
 * mini trebushe
