@@ -1,0 +1,12 @@
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/Valdimar%20Gluten.jpg)
+
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190314_164711.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190314_164715.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190315_105450.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190315_105455.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190315_105459.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190528_173938.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190528_174053.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190528_174238.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190606_093924.jpg)
+![alt text](https://github.com/etinaude/Maker-Stuff/blob/master/3d%20printer/MVIMG_20190606_093931.jpg)
